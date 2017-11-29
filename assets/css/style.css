@@ -1,0 +1,14 @@
+.navbar{
+  background-color: #21912A;
+}
+ .banner{
+   background-image: url('/assets/images/banner.png');
+ }
+
+ .main-container{
+   padding-top: 40px;
+ }
+
+ .puntero{
+   cursor: pointer;
+ }
